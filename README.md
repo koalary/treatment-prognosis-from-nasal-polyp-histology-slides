@@ -1,0 +1,2 @@
+# treatment-prognosis-from-nasal-polyp-histology-slides
+This is the main code involved in our article "Deep learning-based prediction of treatment prognosis from nasal polyp histology slides" to help you better understand what we are going to do and how to apply deep learning to deal with digital pathology more easily to assist in clinical practice. All the code has been tested and can run, if you have any questions, please contact me directly, my email is koalary@qq.com.
